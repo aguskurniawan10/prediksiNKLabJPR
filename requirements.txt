@@ -1,11 +1,12 @@
-imbalanced-learn==0.9.1
-joblib==1.1.1
-numpy==1.22.4
-pandas==1.4.4
-pillow==9.2.0
-requests==2.28.1
-seaborn==0.12.0
-scikit-learn==1.2.2
-xgboost==1.5.1
-scipy==1.7.3
-streamlit==1.12.2
+imbalanced-learn==0.11.0  # Versi terbaru untuk kompatibilitas
+joblib==1.3.2  # Versi terbaru
+numpy>=1.23.0  # Versi lebih baru yang mendukung Python 3.12
+pandas==2.1.4  # Versi terbaru (1.4.4 terlalu lama)
+pillow==10.0.1  # Versi terbaru
+requests==2.31.0  # Versi terbaru
+seaborn==0.13.0  # Versi terbaru
+scikit-learn==1.3.2  # Versi terbaru
+xgboost==1.7.6  # Versi terbaru
+scipy==1.11.4  # Versi terbaru
+streamlit==1.30.0  # Versi terbaru
+
